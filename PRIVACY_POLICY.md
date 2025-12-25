@@ -99,8 +99,8 @@ Under privacy regulations (such as GDPR, CCPA), you have rights regarding your p
 
 If you have questions about this Privacy Policy or MyAssets, you can contact us at:
 
-**Email:** [Your email address]  
-**GitHub:** https://github.com/[your-username]/flutter.myassets
+**Email:** mmorarnz@gmail.com  
+**Blog:** https://connectedcircuits.blog/contact/
 
 ## Compliance
 

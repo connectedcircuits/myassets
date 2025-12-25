@@ -2,12 +2,7 @@
 
 Personal asset and warranty tracker with complete local privacy. Organize your valuables, store receipts, track warranties, and maintain service history across multiple locations.
 
-## Google Play Store Descriptions
 
-### Short Description (80 characters max)
-Track your assets, warranties & receipts. Complete privacy. No cloud required.
-
-### Full Description
 
 **Never lose track of your valuable assets again!**
 
