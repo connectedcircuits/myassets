@@ -74,19 +74,4 @@ Download MyAssets today and take control of your valuable possessions!
 
 ---
 
-## Development
 
-This is a Flutter application built for Android.
-
-### Requirements
-- Flutter SDK
-- Android Studio / VS Code
-- Android device or emulator
-
-### Getting Started
-
-1. Clone the repository
-2. Run `flutter pub get` to install dependencies
-3. Run `flutter run` to launch the app
-
-For more information on Flutter development, visit the [official documentation](https://docs.flutter.dev/).
